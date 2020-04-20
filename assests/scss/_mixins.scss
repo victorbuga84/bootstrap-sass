@@ -1,0 +1,20 @@
+@mixin section{
+  background-color: $grey;
+  padding-top: 100px;
+  .mycontainer{
+    width: 80%;
+    margin: auto;
+  }
+  h2{
+    font-size: 46px;
+    color: $darkc;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 5px solid $lbrown;
+    width: 300px;
+  }
+  p{
+    margin-top: 40px;
+    font-size: 24px;
+  }
+}

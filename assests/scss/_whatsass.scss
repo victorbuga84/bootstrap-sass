@@ -1,0 +1,27 @@
+.whatsass{
+  @include section;
+  img{
+    width: 70%;
+    margin-left: 13%;
+  }
+}
+
+.smartwaytousesass{
+  @include section;
+  img{
+    width: 115%;
+  }
+}
+.homework{
+  margin-bottom: 20px;
+}
+.image1{
+  position: absolute;
+  z-index: 1;
+  border: 5px $grey solid;
+
+
+}
+.image2{
+  position: relative;
+}

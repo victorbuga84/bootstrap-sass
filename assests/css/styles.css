@@ -9889,7 +9889,7 @@ h3 {
 }
 
 .py-2 {
-  color: white;
+  color: #fff;
   font-size: 24px;
   margin: 0 4%;
   text-decoration: none;
@@ -9932,7 +9932,7 @@ h3 {
 header {
   height: 100vh;
   width: 100%;
-  background-color: black;
+  background-color: #000;
 }
 
 /* Style the button used to pause/play the video */
@@ -9948,11 +9948,11 @@ header {
 
 #myBtn:hover {
   background: #ddd;
-  color: black;
+  color: #000;
 }
 
 .fa-play-circle {
-  color: white;
+  color: #fff;
   font-size: 54px;
   margin: 20px;
 }
@@ -9962,6 +9962,69 @@ header {
 }
 .modal-content .modal-title {
   color: #454545;
+}
+
+.whatsass {
+  background-color: #d7d7d7;
+  padding-top: 100px;
+}
+.whatsass .mycontainer {
+  width: 80%;
+  margin: auto;
+}
+.whatsass h2 {
+  font-size: 46px;
+  color: #212529;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  border-bottom: 5px solid #d6ba81;
+  width: 300px;
+}
+.whatsass p {
+  margin-top: 40px;
+  font-size: 24px;
+}
+.whatsass img {
+  width: 70%;
+  margin-left: 13%;
+}
+
+.smartwaytousesass {
+  background-color: #d7d7d7;
+  padding-top: 100px;
+}
+.smartwaytousesass .mycontainer {
+  width: 80%;
+  margin: auto;
+}
+.smartwaytousesass h2 {
+  font-size: 46px;
+  color: #212529;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  border-bottom: 5px solid #d6ba81;
+  width: 300px;
+}
+.smartwaytousesass p {
+  margin-top: 40px;
+  font-size: 24px;
+}
+.smartwaytousesass img {
+  width: 115%;
+}
+
+.homework {
+  margin-bottom: 20px;
+}
+
+.image1 {
+  position: absolute;
+  z-index: 1;
+  border: 5px #d7d7d7 solid;
+}
+
+.image2 {
+  position: relative;
 }
 
 body {
